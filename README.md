@@ -13,7 +13,7 @@
 
 # 📌 Executive Summary
 
-This project analyzes healthcare service utilization data from California between *2021 and 2023* using Python. The analysis focuses on healthcare service categories, payer types, demographic groups, regional utilization, insurance coverage, and healthcare service utilization trends. Data preprocessing, feature engineering, statistical analysis, and visualization were performed to generate meaningful insights that support healthcare planning and data-driven decision-making.
+This project analyzes healthcare service utilization data from California between 2021 to 2023 using Python. The analysis focuses on healthcare service categories, payer types, demographic groups, regional utilization, insurance coverage, and healthcare service utilization trends. Data preprocessing, feature engineering, statistical analysis, and visualization were performed to generate meaningful insights that support healthcare planning and data-driven decision-making.
 
 ---
 
