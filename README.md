@@ -1,6 +1,6 @@
 # 🏥 Healthcare Service Utilization Analysis Using Python
 
-![Project Banner](images/banner.png)
+![Project Banner](banner.png)
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
