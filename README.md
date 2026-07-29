@@ -143,25 +143,24 @@ Illustrates healthcare service utilization trends across different service categ
 
 ---
 
-# 📁 Repository Structure
+## 📁 Repository Structure
 
 text
 Healthcare-Service-Utilization-Analysis-Using-Python
 │
-├── images
-│   ├── banner.png
-│   ├── service_category.png
-│   ├── payer_type.png
-│   ├── demographic_analysis.png
-│   ├── regional_analysis.png
-│   ├── insurance_payer.png
-│   ├── county_analysis.png
-│   └── trend_analysis.png
-│
+├── Healthcare Service Utilization Analysis Using Python.pdf
 ├── Healthcare_Service_Utilization_Analysis.ipynb
-├── services_rpt_data-service-category.csv
+├── raw_dataset.csv
 ├── README.md
-└── LICENSE
+├── LICENSE
+├── banner.png
+├── service_category.png
+├── payer_type.png
+├── demographic_analysis.png
+├── regional_analysis.png
+├── insurance_payer.png
+├── county_analysis.png
+└── trend_analysis.png
 
 
 ---
