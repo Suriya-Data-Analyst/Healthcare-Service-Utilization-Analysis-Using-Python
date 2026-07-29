@@ -70,7 +70,7 @@ This project analyzes healthcare service utilization data from California betwee
 
 Shows the distribution of healthcare service utilization across different service categories.
 
-![Service Category](images/service_category.png)
+![Service Category](service_category.png)
 
 ---
 
