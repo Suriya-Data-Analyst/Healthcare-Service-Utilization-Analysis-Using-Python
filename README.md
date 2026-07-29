@@ -102,7 +102,7 @@ Shows healthcare service utilization across Covered California regions.
 
 Compares total medical coverage months among payer types.
 
-![Insurance Coverage](images/insurance_payer.png)
+![Insurance Coverage](insurance_payer.png)
 
 ---
 
