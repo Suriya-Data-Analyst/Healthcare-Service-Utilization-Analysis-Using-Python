@@ -94,7 +94,7 @@ Analyzes healthcare utilization across age groups and assigned sex at birth.
 
 Shows healthcare service utilization across Covered California regions.
 
-![Regional Analysis](images/regional_analysis.png)
+![Regional Analysis](regional_analysis.png)
 
 ---
 
