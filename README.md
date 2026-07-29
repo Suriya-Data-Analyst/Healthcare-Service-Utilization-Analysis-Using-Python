@@ -78,7 +78,7 @@ Shows the distribution of healthcare service utilization across different servic
 
 Compares healthcare service utilization across Medicare, Commercial, and Medi-Cal.
 
-![Payer Type](images/payer_type.png)
+![Payer Type](payer_type.png)
 
 ---
 
