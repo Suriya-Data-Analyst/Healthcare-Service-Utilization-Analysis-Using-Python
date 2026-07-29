@@ -118,7 +118,7 @@ Displays the top counties based on medical coverage months.
 
 Illustrates healthcare service utilization trends across different service categories.
 
-![Trend Analysis](images/trend_analysis.png)
+![Trend Analysis](trend_analysis.png)
 
 ---
 
