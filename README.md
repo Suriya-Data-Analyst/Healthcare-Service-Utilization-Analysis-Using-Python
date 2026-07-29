@@ -86,7 +86,7 @@ Compares healthcare service utilization across Medicare, Commercial, and Medi-Ca
 
 Analyzes healthcare utilization across age groups and assigned sex at birth.
 
-![Demographic Analysis](images/demographic_analysis.png)
+![Demographic Analysis](demographic_analysis.png)
 
 ---
 
