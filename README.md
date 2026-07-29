@@ -110,7 +110,7 @@ Compares total medical coverage months among payer types.
 
 Displays the top counties based on medical coverage months.
 
-![County Analysis](images/county_analysis.png)
+![County Analysis](county_analysis.png)
 
 ---
 
