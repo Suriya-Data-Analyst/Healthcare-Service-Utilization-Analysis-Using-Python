@@ -166,12 +166,12 @@ Healthcare-Service-Utilization-Analysis-Using-Python
 
 ---
 
-# 📈 Future Enhancements
+## 📈 Future Enhancements
 
-- Develop an interactive Power BI dashboard.
-- Build predictive models for healthcare service demand.
-- Expand the analysis using additional healthcare datasets.
-- Integrate real-time healthcare utilization monitoring.
+- Develop an interactive **Power BI dashboard** for real-time data exploration.
+- Build **machine learning models** to predict future healthcare service demand.
+- Expand the analysis by incorporating **additional healthcare datasets** from different regions and time periods.
+- Integrate **real-time healthcare utilization data** to support continuous monitoring and data-driven decision-making.
 
 ---
 
