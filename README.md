@@ -1,13 +1,30 @@
-# 🏥 Healthcare Service Utilization Analysis Using Python
+# Healthcare Service Utilization Analysis Using Python
 
 ![Project Banner](banner.png)
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-orange?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-Statistical%20Analysis-blue?style=for-the-badge)
-![Project](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
+<div align="center">
+
+<p>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/3.10+-00A4EF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/DATA%20ANALYSIS-283593?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NUMERICAL%20COMPUTING-1F4E79?style=for-the-badge"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/MATPLOTLIB-5B6573?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/VISUALIZATION-ED7D31?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SEABORN-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATISTICAL%20ANALYSIS-00A6D6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PROJECT-5B6573?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COMPLETED-70AD47?style=for-the-badge"/>
+</p>
+
+</div>
+
+---
 
 ---
 
